@@ -16,7 +16,7 @@ Event organizers: LAT3_C0M3R5
 
 | Category  | Name           | Write-up |
 |-----------|----------------|----------|
-| Web       | SEO CEO        |[Here](ApoorvCTF-2025/%5Web%5SEO_CEO.md)|
+| Web       | SEO CEO        |[Here]([Web]SEO_CEO.md)|
 | Forensics | Ramen lockdown |          |
 | Forensics | Samurai's Code |          |
 | Forensics | ArchBTW        |          |
