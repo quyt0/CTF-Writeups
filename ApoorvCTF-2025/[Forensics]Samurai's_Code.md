@@ -23,7 +23,7 @@ Great, got a new file. However, `exiftool` return me `Error: Unknown file type`
 
 Viewed the hex. I saw a section `FJFI` in the header, this could be a `JFIF` file and we have to edit hexadecimal contents of the file given
 
-![Hex editor show FJFI](image\img3.png)
+![Hex editor show FJFI](image/img3.png)
 
 Usually, the header of `JFIF` file should be `FF D8 FF E0 00 10 4A 46 49 46`. But it seems like every 2 bytes in the file are swapped.
 
