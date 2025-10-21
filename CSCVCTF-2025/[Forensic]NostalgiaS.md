@@ -100,9 +100,9 @@ Using reverse skill, we got a flag holder
 CSCV2025{your_computer_<Machine Name>_has_be3n_kicked_by<Registry Value>}
 ```
 
-Now just find out what is <Machine Name> and <Registry Value>. From the C# code we know that it will read from `SOFTWARE\\hensh1n`. Using Registry Viewer to view the `NTUSER.dat`. The <Registry Value> must be `HxrYJgdu`
+Now just find out what is `<Machine Name>` and `<Registry Value>`. From the C# code we know that it will read from `SOFTWARE\\hensh1n`. Using Registry Viewer to view the `NTUSER.dat`. The `<Registry Value>` must be `HxrYJgdu`
 
-For the <Machine Name>, just view in `System32\SYSTEM`: `DESKTOP-47ICHL6`
+For the `<Machine Name>`, just view in `System32\SYSTEM`: `DESKTOP-47ICHL6`
 
 ## Craft the flag
 
